@@ -1,1 +1,1 @@
-Website for watching videos
+A simple website for watching movies. On the homepage, users see movie posters which, when clicked, lead to subpages featuring video thumbnails from a specific category. After selecting a thumbnail, the movie is played using the integrated Plyr player.
